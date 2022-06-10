@@ -4,7 +4,7 @@
     "id": 1,
     "name": "Batman",
     "image": "imageUrl",
-    "powerStats": {
+    "powerstats": {
       "intelligence": 100,
       "strength": 75,
       "speed": 70,
@@ -17,7 +17,7 @@
     "id": 2,
     "name": "Spider man",
     "image": "imageUrl",
-    "powerStats": {
+    "powerstats": {
       "intelligence": 100,
       "strength": 95,
       "speed": 90,
@@ -30,7 +30,7 @@
     "id": 3,
     "name": "Incredible Hulk",
     "image": "imageUrl",
-    "powerStats": {
+    "powerstats": {
       "intelligence": 10,
       "strength": 100,
       "speed": 50,
@@ -43,7 +43,7 @@
     "id": 4,
     "name": "Doctor Strange",
     "image": "imageUrl",
-    "powerStats": {
+    "powerstats": {
       "intelligence": 100,
       "strength": 50,
       "speed": 70,
@@ -56,7 +56,7 @@
     "id": 5,
     "name": "Thor",
     "image": "imageUrl",
-    "powerStats": {
+    "powerstats": {
       "intelligence": 80,
       "strength": 100,
       "speed": 90,
@@ -69,7 +69,7 @@
     "id": 6,
     "name": "Venom",
     "image": "imageUrl",
-    "powerStats": {
+    "powerstats": {
       "intelligence": 40,
       "strength": 90,
       "speed": 80,
@@ -82,7 +82,7 @@
     "id": 7,
     "name": "Aqua-man",
     "image": "imageUrl",
-    "powerStats": {
+    "powerstats": {
       "intelligence": 75,
       "strength": 90,
       "speed": 87,
@@ -95,7 +95,7 @@
     "id": 8,
     "name": "Captain America",
     "image": "imageUrl",
-    "powerStats": {
+    "powerstats": {
       "intelligence": 93,
       "strength": 88,
       "speed": 85,
