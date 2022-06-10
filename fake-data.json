@@ -41,7 +41,7 @@
       {
         "id": "2",
         "name": "Spider man",
-        "image": "./heroImg.heic",
+        "image": "https://halushkovdmytro.github.io/JSON-api/heroImg.jpg",
         "powerstats": {
           "intelligence": "100",
           "strength": "95",
@@ -78,7 +78,7 @@
       {
         "id": "3",
         "name": "Incredible Hulk",
-        "image": "imageUrl",
+        "image": "https://halushkovdmytro.github.io/JSON-api/heroImg.jpg",
         "powerstats": {
           "intelligence": "10",
           "strength": "100",
@@ -111,7 +111,7 @@
       {
         "id": "4",
         "name": "Doctor Strange",
-        "image": "imageUrl",
+        "image": "https://halushkovdmytro.github.io/JSON-api/heroImg.jpg",
         "powerstats": {
           "intelligence": "100",
           "strength": "50",
@@ -144,7 +144,7 @@
       {
         "id": "5",
         "name": "Thor",
-        "image": "imageUrl",
+        "image": "https://halushkovdmytro.github.io/JSON-api/heroImg.jpg",
         "powerstats": {
           "intelligence": "80",
           "strength": "100",
@@ -180,7 +180,7 @@
       {
         "id": "6",
         "name": "Venom",
-        "image": "imageUrl",
+        "image": "https://halushkovdmytro.github.io/JSON-api/heroImg.jpg",
         "powerstats": {
           "intelligence": "40",
           "strength": "90",
@@ -213,7 +213,7 @@
       {
         "id": "7",
         "name": "Aqua-man",
-        "image": "imageUrl",
+        "image": "https://halushkovdmytro.github.io/JSON-api/heroImg.jpg",
         "powerstats": {
           "intelligence": "75",
           "strength": "90",
@@ -246,7 +246,7 @@
       {
         "id": "8",
         "name": "Captain America",
-        "image": "imageUrl",
+        "image": "https://halushkovdmytro.github.io/JSON-api/heroImg.jpg",
         "powerstats": {
           "intelligence": "93",
           "strength": "88",
