@@ -4,7 +4,7 @@
       {
         "id": "1",
         "name": "Batman",
-        "image": "imageUrl",
+        "image": "./heroImg.jpg",
         "powerstats": {
           "intelligence": "100",
           "strength": "75",
@@ -41,7 +41,7 @@
       {
         "id": "2",
         "name": "Spider man",
-        "image": "imageUrl",
+        "image": "./heroImg.heic",
         "powerstats": {
           "intelligence": "100",
           "strength": "95",
