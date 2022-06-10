@@ -5,12 +5,32 @@
     "name": "Batman",
     "image": "imageUrl",
     "powerstats": {
-      "intelligence": 100,
-      "strength": 75,
-      "speed": 70,
-      "durability": 80,
-      "power": 77,
-      "combat": 95
+        "intelligence": 100,
+        "strength": 75,
+        "speed": 70,
+        "durability": 80,
+        "power": 77,
+        "combat": 95
+    },
+    "biography": {
+         "full-name": "Bruce Wayne",
+         "alter-egos": "Shmuce Wayne",
+         "place-of-birdth": "Gothem",
+         "alignment": "unknow"
+    },
+    "appearence": {
+        "gender": "Male",
+        "race": "Human",
+        "heigt": "Tall"
+        "weight": "Fat"
+    },
+    "work": {
+         "ocupations":"Millionare",
+         "base":"Cave"
+    },
+    "appearence": {
+         "relatives": ["Alfred", "Celine", "Robin"],
+         "group-affiliation":"unknow"
     }
   },
   {
@@ -24,6 +44,26 @@
       "durability": 90,
       "power": 90,
       "combat": 90
+    },
+       "biography": {
+         "full-name": "Peter Parker",
+         "alter-egos": "Nerd",
+         "place-of-birdth": "New-York",
+         "alignment": "unknow"
+    },
+    "appearence": {
+        "gender": "Male",
+        "race": "Human",
+        "heigt": "Short"
+        "weight": "Fit"
+    },
+    "work": {
+         "ocupations":"Student",
+         "base":"Ant May's appartment"
+    },
+    "appearence": {
+         "relatives":["Ned", "MJ", "Ant May"],
+         "group-affiliation":""
     }
   },
   {
@@ -37,6 +77,26 @@
       "durability": 100,
       "power": 90,
       "combat": 100
+    },
+       "biography": {
+         "full-name": "Bruce Benner",
+         "alter-egos": "Hulk",
+         "place-of-birdth": "USA",
+         "alignment": "unknow"
+    },
+    "appearence": {
+        "gender": "Male",
+        "race": "Human",
+        "heigt": "Huge"
+        "weight": "Enormous"
+    },
+    "work": {
+         "ocupations":"Scientist",
+         "base":"Stark industries"
+    },
+    "appearence": {
+         "relatives":"unknow",
+         "group-affiliation":"unknow"
     }
   },
   {
@@ -50,6 +110,26 @@
       "durability": 100,
       "power": 100,
       "combat": 70
+    },
+       "biography": {
+         "full-name": "Steven Strange",
+         "alter-egos": "Evil Strange",
+         "place-of-birdth": "New-York",
+         "alignment": "unknow"
+    },
+    "appearence": {
+        "gender": "Male",
+        "race": "Human",
+        "heigt": "Regular"
+        "weight": "Regular"
+    },
+    "work": {
+         "ocupations":"Neurosurgeon",
+         "base":"Kamartage"
+    },
+    "appearence": {
+         "relatives":"unknow",
+         "group-affiliation":"unknown"
     }
   },
   {
@@ -63,6 +143,26 @@
       "durability": 90,
       "power": 100,
       "combat": 100
+    },
+       "biography": {
+         "full-name": "Thor Odinsson",
+         "alter-egos": "unknow",
+         "place-of-birdth": "Asguard",
+         "alignment": "unknow"
+    },
+    "appearence": {
+        "gender": "Male",
+        "race": "Asguardian",
+        "heigt": "Tall"
+        "weight": "Pretty muscle"
+    },
+    "work": {
+         "ocupations":"Prince of Asguard",
+         "base":"Asguard"
+    },
+    "appearence": {
+         "relatives":["Odin", "Loki"],
+         "group-affiliation":"unknow"
     }
   },
   {
@@ -76,7 +176,28 @@
       "durability": 90,
       "power": 85,
       "combat": 95
+    },
+       "biography": {
+         "full-name": "Eddie Broke",
+         "alter-egos": "unknow",
+         "place-of-birdth": "unknow",
+         "alignment": "unknow"
+    },
+    "appearence": {
+        "gender": "Male",
+        "race": "Parasite",
+        "heigt": "Tall"
+        "weight": "Muscle"
+    },
+    "work": {
+         "ocupations":"Chicken brains eater",
+         "base":"Eddie Broke appartment"
+    },
+    "appearence": {
+         "relatives":"Carnage",
+         "group-affiliation":"unknow"
     }
+   
   },
   {
     "id": 7,
@@ -89,6 +210,26 @@
       "durability": 88,
       "power": 93,
       "combat": 86
+    },
+       "biography": {
+         "full-name": "Jason Mamoa",
+         "alter-egos": "Khal Drogo",
+         "place-of-birdth": "unknow",
+         "alignment": "unknow"
+    },
+    "appearence": {
+        "gender": "Male",
+        "race": "Human/Atlantidian",
+        "heigt": "Tall"
+        "weight": "Big"
+    },
+    "work": {
+         "ocupations": "Beer drinker",
+         "base": "Under the sea"
+    },
+    "appearence": {
+         "relatives": "Nicole Kidman",
+         "group-affiliation": "unknow"
     }
   },
   {
@@ -102,6 +243,26 @@
       "durability": 91,
       "power": 89,
       "combat": 99
+    },
+       "biography": {
+         "full-name": "Steve Rogers",
+         "alter-egos": "Red Skull",
+         "place-of-birdth": "Brooklyn",
+         "alignment": "unknow"
+    },
+    "appearence": {
+        "gender": "Male",
+        "race": "Human",
+        "heigt": "Tall"
+        "weight": "Strong"
+    },
+    "work": {
+         "ocupations":"Avenger",
+         "base": "Avengers base"
+    },
+    "appearence": {
+         "relatives": "unknow",
+         "group-affiliation": "unknow"
     }
   }
 ]
