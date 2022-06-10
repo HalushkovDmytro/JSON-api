@@ -1,6 +1,6 @@
 
 
-[ { "response": "success"}, { "results": [
+{ "response": "success",  "results": [
       {
         "id": "1",
         "name": "Batman",
@@ -16,26 +16,26 @@
         "biography": {
           "full-name": "Bruce Wayne",
           "alter-egos": "Shmuce Wayne",
-          "place-of-birdth": "Gothem",
-          "alignment": "unknow"
+          "place-of-birth": "Gothem",
+          "alignment": "unknown"
         },
-        "appearence": {
+        "appearance": {
           "gender": "Male",
           "race": "Human",
-          "heigt": "Tall",
+          "height": "Tall",
           "weight": "Fat"
         },
         "work": {
-          "ocupations": "Millionare",
+          "occupations": "Millionaire",
           "base": "Cave"
         },
-        "appearence": {
+        "connections": {
           "relatives": [
             "Alfred",
-            "Celine",
+            "Seline",
             "Robin"
           ],
-          "group-affiliation": "unknow"
+          "group-affiliation": "unknown"
         }
       },
       {
@@ -53,26 +53,26 @@
         "biography": {
           "full-name": "Peter Parker",
           "alter-egos": "Nerd",
-          "place-of-birdth": "New-York",
-          "alignment": "unknow"
+          "place-of-birth": "New-York",
+          "alignment": "unknown"
         },
-        "appearence": {
+        "appearance": {
           "gender": "Male",
           "race": "Human",
-          "heigt": "Short",
+          "height": "Short",
           "weight": "Fit"
         },
         "work": {
-          "ocupations": "Student",
-          "base": "Ant May's appartment"
+          "occupations": "Student",
+          "base": "Ant May's apartment"
         },
-        "appearence": {
+        "connections": {
           "relatives": [
             "Ned",
             "MJ",
             "Ant May"
           ],
-          "group-affiliation": ""
+          "group-affiliation": "unknown"
         }
       },
       {
@@ -90,22 +90,22 @@
         "biography": {
           "full-name": "Bruce Benner",
           "alter-egos": "Hulk",
-          "place-of-birdth": "USA",
-          "alignment": "unknow"
+          "place-of-birth": "USA",
+          "alignment": "unknown"
         },
-        "appearence": {
+        "appearance": {
           "gender": "Male",
           "race": "Human",
-          "heigt": "Huge",
+          "height": "Huge",
           "weight": "Enormous"
         },
         "work": {
-          "ocupations": "Scientist",
+          "occupations": "Scientist",
           "base": "Stark industries"
         },
-        "appearence": {
-          "relatives": "unknow",
-          "group-affiliation": "unknow"
+        "connections": {
+          "relatives": "unknown",
+          "group-affiliation": "unknown"
         }
       },
       {
@@ -123,21 +123,21 @@
         "biography": {
           "full-name": "Steven Strange",
           "alter-egos": "Evil Strange",
-          "place-of-birdth": "New-York",
-          "alignment": "unknow"
+          "place-of-birth": "New-York",
+          "alignment": "unknown"
         },
-        "appearence": {
+        "appearance": {
           "gender": "Male",
           "race": "Human",
-          "heigt": "Regular",
+          "height": "Regular",
           "weight": "Regular"
         },
         "work": {
-          "ocupations": "Neurosurgeon",
+          "occupations": "Neurosurgeon",
           "base": "Kamartage"
         },
-        "appearence": {
-          "relatives": "unknow",
+        "connections": {
+          "relatives": "unknown",
           "group-affiliation": "unknown"
         }
       },
@@ -155,21 +155,21 @@
         },
         "biography": {
           "full-name": "Thor Odinsson",
-          "alter-egos": "unknow",
-          "place-of-birdth": "Asguard",
-          "alignment": "unknow"
+          "alter-egos": "unknown",
+          "place-of-birth": "Asguard",
+          "alignment": "unknown"
         },
-        "appearence": {
+        "appearance": {
           "gender": "Male",
           "race": "Asguardian",
-          "heigt": "Tall",
+          "height": "Tall",
           "weight": "Pretty muscle"
         },
         "work": {
-          "ocupations": "Prince of Asguard",
+          "occupations": "Prince of Asguard",
           "base": "Asguard"
         },
-        "appearence": {
+        "connections": {
           "relatives": [
             "Odin",
             "Loki"
@@ -191,23 +191,23 @@
         },
         "biography": {
           "full-name": "Eddie Broke",
-          "alter-egos": "unknow",
-          "place-of-birdth": "unknow",
-          "alignment": "unknow"
+          "alter-egos": "unknown",
+          "place-of-birth": "unknown",
+          "alignment": "unknown"
         },
-        "appearence": {
+        "appearance": {
           "gender": "Male",
           "race": "Parasite",
-          "heigt": "Tall",
+          "height": "Tall",
           "weight": "Muscle"
         },
         "work": {
-          "ocupations": "Chicken brains eater",
-          "base": "Eddie Broke appartment"
+          "occupations": "Chicken brains eater",
+          "base": "Eddie Broke apartment"
         },
-        "appearence": {
+        "connections": {
           "relatives": "Carnage",
-          "group-affiliation": "unknow"
+          "group-affiliation": "unknown"
         }
       },
       {
@@ -225,22 +225,22 @@
         "biography": {
           "full-name": "Jason Mamoa",
           "alter-egos": "Khal Drogo",
-          "place-of-birdth": "unknow",
-          "alignment": "unknow"
+          "place-of-birth": "unknown",
+          "alignment": "unknown"
         },
-        "appearence": {
+        "appearance": {
           "gender": "Male",
           "race": "Human/Atlantidian",
-          "heigt": "Tall",
+          "height": "Tall",
           "weight": "Big"
         },
         "work": {
-          "ocupations": "Beer drinker",
+          "occupations": "Beer drinker",
           "base": "Under the sea"
         },
-        "appearence": {
+        "connections": {
           "relatives": "Nicole Kidman",
-          "group-affiliation": "unknow"
+          "group-affiliation": "unknown"
         }
       },
       {
@@ -258,24 +258,23 @@
         "biography": {
           "full-name": "Steve Rogers",
           "alter-egos": "Red Skull",
-          "place-of-birdth": "Brooklyn",
-          "alignment": "unknow"
+          "place-of-birth": "Brooklyn",
+          "alignment": "unknown"
         },
-        "appearence": {
+        "appearance": {
           "gender": "Male",
           "race": "Human",
-          "heigt": "Tall",
+          "height": "Tall",
           "weight": "Strong"
         },
         "work": {
-          "ocupations": "Avenger",
+          "occupations": "Avenger",
           "base": "Avengers base"
         },
-        "appearence": {
-          "relatives": "unknow",
-          "group-affiliation": "unknow"
+        "connections": {
+          "relatives": "unknown",
+          "group-affiliation": "unknown"
         }
       }
     ]
   }
-]
