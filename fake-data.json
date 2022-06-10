@@ -4,7 +4,7 @@
       {
         "id": "1",
         "name": "Batman",
-        "image": "./heroImg.jpg",
+        "image": "https://halushkovdmytro.github.io/JSON-api/heroImg.jpg",
         "powerstats": {
           "intelligence": "100",
           "strength": "75",
