@@ -1,5 +1,6 @@
-{responce: "success", results: [
-  {
+{response: "success", 
+ results: 
+ [{
     "id": 1,
     "name": "Batman",
     "image": "imageUrl",
@@ -103,4 +104,5 @@
       "combat": 99
     }
   }
-]}
+]
+}
