@@ -4,7 +4,7 @@
       {
         "id": "1",
         "name": "Batman",
-        "image": "https://halushkovdmytro.github.io/JSON-api/heroImg.jpg",
+        "image": "https://halushkovdmytro.github.io/JSON-api/heroes/1.png",
         "powerstats": {
           "intelligence": "100",
           "strength": "75",
@@ -41,7 +41,7 @@
       {
         "id": "2",
         "name": "Spider man",
-        "image": "https://halushkovdmytro.github.io/JSON-api/heroImg.jpg",
+        "image": "https://halushkovdmytro.github.io/JSON-api/heroes/2.jpg",
         "powerstats": {
           "intelligence": "100",
           "strength": "95",
@@ -78,7 +78,7 @@
       {
         "id": "3",
         "name": "Incredible Hulk",
-        "image": "https://halushkovdmytro.github.io/JSON-api/heroImg.jpg",
+        "image": "https://halushkovdmytro.github.io/JSON-api/heroes/3.png",
         "powerstats": {
           "intelligence": "10",
           "strength": "100",
@@ -111,7 +111,7 @@
       {
         "id": "4",
         "name": "Doctor Strange",
-        "image": "https://halushkovdmytro.github.io/JSON-api/heroImg.jpg",
+        "image": "https://halushkovdmytro.github.io/JSON-api/heroes/4.png",
         "powerstats": {
           "intelligence": "100",
           "strength": "50",
@@ -144,7 +144,7 @@
       {
         "id": "5",
         "name": "Thor",
-        "image": "https://halushkovdmytro.github.io/JSON-api/heroImg.jpg",
+        "image": "https://halushkovdmytro.github.io/JSON-api/heroes/5.jpg",
         "powerstats": {
           "intelligence": "80",
           "strength": "100",
@@ -180,7 +180,7 @@
       {
         "id": "6",
         "name": "Venom",
-        "image": "https://halushkovdmytro.github.io/JSON-api/heroImg.jpg",
+        "image": "https://halushkovdmytro.github.io/JSON-api/heroes/6.jpg",
         "powerstats": {
           "intelligence": "40",
           "strength": "90",
@@ -213,7 +213,7 @@
       {
         "id": "7",
         "name": "Aqua-man",
-        "image": "https://halushkovdmytro.github.io/JSON-api/heroImg.jpg",
+        "image": "https://halushkovdmytro.github.io/JSON-api/heroes/7.jpg",
         "powerstats": {
           "intelligence": "75",
           "strength": "90",
@@ -246,7 +246,7 @@
       {
         "id": "8",
         "name": "Captain America",
-        "image": "https://halushkovdmytro.github.io/JSON-api/heroImg.jpg",
+        "image": "https://halushkovdmytro.github.io/JSON-api/heroes/8.jpg",
         "powerstats": {
           "intelligence": "93",
           "strength": "88",
